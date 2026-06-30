@@ -1,0 +1,2 @@
+# مفتاح Anthropic — احصل عليه من console.anthropic.com ثم ضعه في Vercel (Environment Variables)
+ANTHROPIC_API_KEY=sk-ant-xxxxxxxxxxxxxxxxxxxxx
